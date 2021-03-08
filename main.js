@@ -1,4 +1,4 @@
-//Task 2
+//Task 2 for Serge
 const PRODUCT_TYPE = {
   MILK_FOOD: 1,
   FRUIT: 2,
